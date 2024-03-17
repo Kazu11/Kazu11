@@ -1,7 +1,8 @@
-### Hi there 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&color=14B610&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Faqih;Welcome+to+my+Github+%3AD)](https://git.io/typing-svg)
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=900&size=40&duration=4000&pause=400&color=14B610&vCenter=true&random=false&width=450&lines=Hi%2C+I'm+Faqih;Welcome+to+my+Github" alt="Typing SVG" />
+
+</a>
 
 <!--
 **Kazu11/Kazu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
