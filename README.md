@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors"
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors">
 
 <!--
 **Kazu11/Kazu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
